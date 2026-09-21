@@ -16,7 +16,6 @@ transmittance to adapt the color changing to others stimuli.
    - **sound.js**: Modulate a C-major chord.
    - **illustration.js**: Modulate proportion of OH⁻, H₃O⁺, H₂O molecules illustrated.
    - **index.html**: Main HTML entry point
-   - **package.json**: Node.js dependencies
 - **package-lock.json and package.json**: npm configuration files
 
 ## Requirements
