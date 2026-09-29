@@ -12,11 +12,11 @@ transmittance to adapt the color changing to others stimuli.
 - **Arduino**: Microcontroller responsible to measure the LED photovoltage, proportional to color intensity, and realize a digital filtering.
   - *files*: Code (.ino).
 - **JavaScript**: Application responsible to communicate with the Arduino board and transform the color data in other stimuli.
-   - **server.js**: Read serial port data in real time.
-   - **sound.js**: Modulate a C-major chord.
-   - **illustration.js**: Modulate proportion of OH⁻, H₃O⁺, H₂O molecules illustrated.
-   - **index.html**: Main HTML entry point
-   - **package.json**: Node.js dependencies
+  - **server.js**: Read serial port data in real time.
+  - **sound.js**: Modulate a C-major chord.
+  - **illustration.js**: Modulate proportion of OH⁻, H₃O⁺, H₂O molecules illustrated.
+  - **index.html**: Main HTML entry point
+  - **package.json**: Node.js dependencies
 - **package-lock.json and package.json**: npm configuration files
 
 ## Requirements
