@@ -94,16 +94,16 @@ Each visualization file (`.js`) has configurable constants at the top that contr
 **`illustration.js` (Particle Visualization)**
 
 ```javascript
-const MIN_SERIAL_VALUE = 3400;           // Sensor value at acidic end
-const MAX_SERIAL_VALUE = 3900;           // Sensor value at basic end
+const MIN_SERIAL_VALUE = 3400;           // Sensor value at acidic condition
+const MAX_SERIAL_VALUE = 3900;           // Sensor value at basic condition
 const MEAN_SERIAL_VALUE = 3600;          // Neutral pH point
 ```
 
 **`sound.js` (Audio)**
 
 ```javascript
-const MIN_SERIAL_VALUE = 4600;           // Sensor value for min frequency
-const MAX_SERIAL_VALUE = 2100;           // Sensor value for max frequency
+const MIN_SERIAL_VALUE = 4600;           // Sensor value at acid condition
+const MAX_SERIAL_VALUE = 2100;           // Sensor value at basic condition
 const MIN_FILTER_FREQ = 200;             // Minimum filter frequency (Hz)
 const MAX_FILTER_FREQ = 1000;            // Maximum filter frequency (Hz)
 ```
