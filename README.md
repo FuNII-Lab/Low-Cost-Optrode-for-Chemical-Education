@@ -37,7 +37,7 @@ The following is a list of the components and their prices required to build one
 | Anycubic Standard Resin | 14 g | 19.99 / kg | |
 | **Total (USD):** | | 21.01 | |
 
-> **Tip:** As Arduino UNO has female pin header, is possible to build the same optrode without soldering, using breadboard, bulk components and pin header cables!
+> :bulb: **Tip:** As Arduino UNO has female pin header, is possible to build the same optrode without soldering, using breadboard, bulk components and pin header cables!
 
 ### Software
 
@@ -45,7 +45,7 @@ The following is a list of the components and their prices required to build one
 - Web browser with WebSocket support (Chrome, Firefox, Safari, Edge)
 - npm (Node Package Manager)
 
-> **Tip:** Visual Studio Code is a free text editor that has a user friendly interface, making easy to navigate in files and setup the code.
+> :bulb: **Tip:** Visual Studio Code is a free text editor that has a user friendly interface, making easy to navigate in files and setup the code.
 
 ## Installation
 
